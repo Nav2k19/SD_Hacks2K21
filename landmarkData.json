@@ -1,0 +1,153 @@
+[
+    {
+        "name": "Earl Warren College",
+        "category": "Residential College",
+        "city": "San Diego",
+        "state": "California",
+        "id": 1001,
+        "isFeatured": true,
+        "isFavorite": true,
+        "coordinates": {
+            "longitude": -117.232642,
+            "latitude": 32.883736
+        },
+        "imageName": "earlwarrencollege"
+    },
+    
+    {
+        "name": "John Muir College",
+        "category": "Residential College",
+        "city": "San Diego",
+        "state": "California",
+        "id": 1002,
+        "isFeatured": false,
+        "isFavorite": false,
+        "coordinates": {
+            "longitude": -117.240517,
+            "latitude": 32.878816
+        },
+        
+        "imageName": "johnmuir"
+    },
+    
+    {
+        "name": "Revelle College",
+        "category": "Residential College",
+        "city": "San Diego",
+        "state": "California",
+        "id": 1003,
+        "isFeatured": false,
+        "isFavorite": true,
+        "coordinates": {
+            "longitude": -117.241271,
+            "latitude": 32.878857
+        },
+        
+        "imageName": "revelle"
+    },
+    {
+        "name": "Thurgood Marshall College",
+        "category": "Residential College",
+        "city": "San Diego",
+        "state": "California",
+        "id": 1004,
+        "isFeatured": true,
+        "isFavorite": true,
+        "coordinates": {
+            "longitude": -117.243141,
+            "latitude": 32.883473
+        },
+        
+        "imageName": "thurgoodmarshall"
+    },
+    {
+        "name": "Elanor Roosovelt College",
+        "category": "Residential College",
+        "city": "San Diego",
+        "state": "California",
+        "id": 1005,
+        "isFeatured": false,
+        "isFavorite": false,
+        "coordinates": {
+            "longitude": -117.242307,
+            "latitude": 32.886360
+        },
+        
+        "imageName": "elanorroosovelt"
+    },
+    {
+        "name": "Sixth College",
+        "category": "Residential College",
+        "city": "San Diego",
+        "state": "California",
+        "id": 1006,
+        "isFeatured": false,
+        "isFavorite": false,
+        "coordinates": {
+            "longitude": -117.242307,
+            "latitude": 32.880827
+        },
+        
+        "imageName": "sixthcollege"
+    },
+    {
+        "name": "Seventh College",
+        "category": "Residential College",
+        "city": "San Diego",
+        "state": "California",
+        "id": 1007,
+        "isFeatured": true,
+        "isFavorite": false,
+        "coordinates": {
+            "longitude": -117.242164,
+            "latitude": 32.888207
+        },
+        
+        "imageName": "seventhcollege"
+    },
+    {
+        "name": "Price Center",
+        "category": "Food",
+        "city": "San Diego",
+        "state": "Alaska",
+        "id": 1008,
+        "isFeatured": false,
+        "isFavorite": false,
+        "coordinates": {
+            "longitude": -117.236481,
+            "latitude": 32.879941
+        },
+        
+        "imageName": "pricecenter"
+    },
+    {
+        "name": "RIMAC",
+        "category": "Gym",
+        "city": "San Diego",
+        "state": "California",
+        "id": 1009,
+        "isFeatured": false,
+        "isFavorite": false,
+        "coordinates": {
+            "longitude": -117.239599
+            "latitude": 32.887410
+        },
+        
+        "imageName": "rimac"
+    },
+    {
+        "name": "Geisel Library",
+        "category": "Library",
+        "city": "San Diego",
+        "state": "California",
+        "id": 1010,
+        "isFeatured": false,
+        "isFavorite": false,
+        "coordinates": {
+            "longitude": -117.237517,
+            "latitude": 32.881363
+        },
+        
+        "imageName": "geisellibrary"
+    }
+]
